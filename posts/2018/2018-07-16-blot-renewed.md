@@ -1,4 +1,4 @@
-Date: 2018-07-16
+Date: 2018-07-15
 Tags: blogging, blot
 
 # Blot.im for another year
