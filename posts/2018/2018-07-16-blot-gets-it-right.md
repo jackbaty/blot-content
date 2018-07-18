@@ -25,4 +25,3 @@ Blot splits the difference. I need to decide if the compromises are worth
 giving up the ease of WordPress to have a text-based publishing system that's
 easier than Hugo for things like links, photos, and short posts.
 
-Sounds good in theory!

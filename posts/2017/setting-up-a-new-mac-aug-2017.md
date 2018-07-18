@@ -9,6 +9,8 @@ Whenever I get a new Mac, I start with a clean install and re-build and re-insta
 
 Here is the list of apps I install when setting up a new Mac. The latest of these was in August 2017 when the drive on my iMac died.
 
+{{more}}
+
 - Install [Dropbox][1]
 - Install [1Password][2]
 - Install [Alfred][3]
