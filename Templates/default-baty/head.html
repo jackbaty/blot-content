@@ -1,0 +1,35 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{> title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{> description}}">
+    <meta name="twitter:card" content="summary">
+    <meta property="og:type" content="website">
+    <meta name="twitter:title" property="og:title" itemprop="title name" content="{{> title}}">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="{{> description}}">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{name}}'s blog" href="{{feedURL}}">{{#avatar}}
+    <link rel="icon" href="{{{avatar}}}" type="image/x-icon">
+    {{/avatar}}<link rel="stylesheet" href="{{{cssURL}}}">
+    <link rel="me" href="https://github.com/jackbaty" />
+    <link rel="pingback" href="https://webmention.io/www.baty.blog/xmlrpc" />
+	<link rel="webmention" href="https://webmention.io/www.baty.blog/webmention" />
+    <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>
+    
+      <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.www.baty.blog"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.baty.net/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+      
+</head>
