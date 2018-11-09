@@ -13,23 +13,25 @@
     <link rel="me" href="https://github.com/jackbaty" />
     <link rel="pingback" href="https://webmention.io/www.baty.blog/xmlrpc" />
 	<link rel="webmention" href="https://webmention.io/www.baty.blog/webmention" />
+    <link rel="micropub" href="https://whispering-anchorage-78175.herokuapp.com/micropub">
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
     <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>
     
-      <!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(["setCookieDomain", "*.www.baty.blog"]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.baty.net/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '3']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
+<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+<script>
+(function(f, a, t, h, o, m){
+	a[h]=a[h]||function(){
+		(a[h].q=a[h].q||[]).push(arguments)
+	};
+	o=f.createElement('script'),
+	m=f.getElementsByTagName('script')[0];
+	o.async=1; o.src=t; o.id='fathom-script';
+	m.parentNode.insertBefore(o,m)
+})(document, window, '//fathom.baty.net/tracker.js', 'fathom');
+fathom('set', 'siteId', 'QDOKG');
+fathom('trackPageview');
 </script>
-<!-- End Piwik Code -->
-      
+<!-- / Fathom -->
+
 </head>
