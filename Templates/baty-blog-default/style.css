@@ -253,8 +253,7 @@ th, td {box-sizing: border-box;border: 1px solid #ddd;padding: 5px 12px 6px}
 
 ul, ol {
   margin-left: 0;
-  padding-left: 0;
-  list-style-position: outside;
+  list-style-position: inside;
   margin-bottom: 24px;
 }
 
