@@ -484,3 +484,13 @@ input#search:focus {
 .hljs-emphasis {font-style: italic;}
 .hljs-strong {font-weight: bold;}
 {{/plugins.codeHighlighting.enabled}}
+
+
+/* my edits */
+
+.left p {
+    margin: 5px 0;
+}
+.left p img {
+    padding-right: 10px;
+}
