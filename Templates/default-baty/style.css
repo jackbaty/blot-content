@@ -79,6 +79,7 @@ div {
 .column img {margin-top: 6px}
 
 .margin p {font-style: italic;font-family: Georgia;font-size: 0.9em;margin-top: 0}
+.margin h1, .margin h2, .margin h3 {margin-top:0}
 
 .left.margin {
   left: -29.3333%;
@@ -143,8 +144,10 @@ h1 {font-size: 25px;line-height: 36px;font-weight: bold;margin-bottom: 24px}
 h2, h3, h4, h5, h6 {font-size: 17px;font-weight: bold;line-height: 24px;margin: 48px 0 24px}
 
 blockquote {
-  padding: 0 0 0 12px;
-  color: #777
+  padding: 0 0 0 20px;
+  color: #777;
+  /* border-left: 3px solid #777; */
+  margin-left: 10px;
 }
 
 /*
@@ -255,7 +258,7 @@ th, td {box-sizing: border-box;border: 1px solid #ddd;padding: 5px 12px 6px}
 ul, ol {
   margin-left: 0;
   padding-left: 0;
-  list-style-position: outside;
+  list-style-position: inside;
   margin-bottom: 24px;
 }
 
@@ -473,6 +476,19 @@ input#search:focus {
   .header {margin: 9px auto -12px}
 }
 
+
+/* My Edits */
+
+blockquote:before {
+display: block;
+content: "\201C";
+font-size: 80px;
+position: absolute;
+left: -10px;
+top: 130px;
+font-style: normal;
+}
+
 /* Comments/Webmentions */
 
 ol.commentlist {
@@ -575,7 +591,6 @@ ol.commentlist .avatar {
 .pingback .reply {
 	display: none;
 }
-
 
 
 {{#plugins.codeHighlighting.enabled}}
