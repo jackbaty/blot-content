@@ -1,4 +1,5 @@
 # About
 
-See [baty.net/about](https://baty.net/about/)
+
+See [baty.net](https://baty.net/)
 
