@@ -407,6 +407,9 @@ I also try to keep my
 1. The Bullet Journal Method by Ryder Carroll (2018-10-29)
 1. Holding Dear: The Value of Real by Steve Leveen (2018-11-10)
 1. The Joy of Missing Out by Christina Cook (2018-11-19)
+1. Elevation by Stephen King (2018-11-22)
+1. The Collapsing Empire by John Scalzi (2018-12-01)
+1. The Consuming Fire by John Scalzi (2018-12-07)
 
 
 
