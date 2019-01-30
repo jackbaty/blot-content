@@ -1,0 +1,26 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{> title}}</title>
+  <meta name="description" content="{{> description}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{title}}" href="{{{feedURL}}}">
+  {{#avatar}}<link rel="icon" href="{{{avatar}}}" type="image/x-icon">{{/avatar}}
+  <link rel="stylesheet" href="{{#asset}}css-theme.css{{/asset}}"/>   
+  
+  <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+	<script>
+	(function(f, a, t, h, o, m){
+		a[h]=a[h]||function(){
+			(a[h].q=a[h].q||[]).push(arguments)
+		};
+		o=f.createElement('script'),
+		m=f.getElementsByTagName('script')[0];
+		o.async=1; o.src=t; o.id='fathom-script';
+		m.parentNode.insertBefore(o,m)
+	})(document, window, '//fathom.baty.net/tracker.js', 'fathom');
+	fathom('set', 'siteId', 'PRFQK');
+	fathom('trackPageview');
+	</script>
+ <!-- / Fathom -->
+  
+</head>
