@@ -163,10 +163,12 @@ border: none;}
   .measure-wide {max-width:38em}
   
   blockquote, ol, ul {
-  padding-left:4rem;
+  padding-left:2rem;
   }
   blockquote {
         color:#676767;
+    	   background-color: #FFFEFC;
+    	   border-left: 3px solid #676767;
 }
   
 .tracked-tight {letter-spacing:-0.01em}
@@ -281,3 +283,4 @@ h3.f6 {line-height:1.25;}
 /* My edits to the magazine theme */
 
 .clip-tags { display: none; }
+
