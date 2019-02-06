@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  <body>
+    {{> header}}
+    <div class="h-entry container">
+      {{#entry}}
+
+        {{{titleTag}}}
+
+        <p class="light">
+          <time class="dt-published" datetime="{{date}}"></time>{{date}}
+
+          {{#tags.length}}
+            {{#tags}}
+            ☼ <a class="light" href="/tagged/{{slug}}">{{name}}</a>
+            {{/tags}}
+          {{/tags.length}}
+          
+           | <a class="u-url light" href="{{url}}" title="Permalink to this post">#</a>
+          
+          <a rel="author" class="p-author h-card" style="display:none;" href="https://www.baty.net/">Jack Baty</a>
+        </p>
+
+        {{{body}}}
+
+        <Br />
+        
+        {{> pluginHTML}}
+<div class="post-mentions" id="post-mentions" style="display:none">
+	<ul class="mentions-list" id="mentions-list"></ul>
+</div>
+      {{/entry}}
+    {{> footer}}
+  </body>
+</html>
