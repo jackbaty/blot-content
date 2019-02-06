@@ -5,11 +5,17 @@
     {{> header}}
     <div class="container index">
 
-     {{#entries}}
-      <p>
-        <span class="light margin left">{{date}}</span>
-        <a href="{{url}}">{{title}}</a>
-      </p>
+      {{#entries}}
+  <span class="light margin left">{{date}}</span>   
+         {{^metadata.micro}}
+               <p>
+                   <a class="entryblocktitle" href="{{url}}">{{title}}</a>
+               </p>
+           {{/metadata.micro}}
+  
+        {{#metadata.micro}}
+                    <a class="light" style="float:right;" href="{{url}}" title="Permalink to this post">#</a> <p class="entryblock">{{{html}}}</p>
+           {{/metadata.micro}}
       {{/entries}}
 
       <br /><Br />
