@@ -7,4 +7,3 @@ Permalink: /2019/dont-be-a-dick-about-it
 My regular reminder:
 
 https://www.youtube.com/watch?v=0la5DBtOVNI
-

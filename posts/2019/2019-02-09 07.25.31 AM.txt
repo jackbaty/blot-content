@@ -1,0 +1,5 @@
+Date: %Y-%m-%d %H:%M
+Tags: %|
+Micro: true
+
+The Internet at my house is going to be out at least all day today. I'm already bored.
