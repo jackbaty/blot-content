@@ -1,0 +1,7 @@
+Date: 2019-02-16 19:38
+
+# The Machine Stops - Oliver Sacks, The New Yorker
+
+[Oliver Sacks, The New Yorker](https://www.newyorker.com/magazine/2019/02/11/the-machine-stops):
+
+> Everything is public now, potentially: one’s thoughts, one’s photos, one’s movements, one’s purchases. There is no privacy and apparently little desire for it in a world devoted to non-stop use of social media. Every minute, every second, has to be spent with one’s device clutched in one’s hand. Those trapped in this virtual world are never alone, never able to concentrate and appreciate in their own way, silently. They have given up, to a great extent, the amenities and achievements of civilization: solitude and leisure, the sanction to be oneself, truly absorbed, whether in contemplating a work of art, a scientific theory, a sunset, or the face of one’s beloved.
