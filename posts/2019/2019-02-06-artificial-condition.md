@@ -1,5 +1,6 @@
 Date: 2019-02-06 15:16
 Tags: book
+Icon: 📚
 
 # Artificial Condition (The Murderbot Diaries, #2)
 

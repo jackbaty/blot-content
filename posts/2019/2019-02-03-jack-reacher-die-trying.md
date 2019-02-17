@@ -1,6 +1,7 @@
 Date: 2019-02-03
 Tags: book
 Permalink: /2019/jack-reacher-die-trying
+Icon: 📚
 
 # Die Trying (Jack Reacher #2) 
 

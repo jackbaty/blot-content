@@ -1,6 +1,7 @@
 Date: 2019-02-03
 Tags: book
 Permalink: /2019/all-systems-red
+Icon: 📚
 
 # All Systems Red (The Murderbot Diaries #1)
 

@@ -1,5 +1,6 @@
 Date: 2019-02-16 13:30
 Tags: book, minimalism
+Icon: 📚
 
 # Digital Minimalism by Cal Newport
 
