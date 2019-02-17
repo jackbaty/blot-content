@@ -4,7 +4,7 @@ Icon: 🌀
 
 # Post icons
 
-Given my weird new blog layout, I thought[^who] it would be helpful to include a small emoji as part of the title for those posts having titles.
+Given my weird new blog layout, I thought[^who] it would be helpful to include a small emoji next to the title for those posts having titles.
 
 What I didn't want was to include the emoji as part of a post's Title field. That feels like embedding metadata where it doesn't belong and it also messes with permalinks.
 
