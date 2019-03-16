@@ -29,5 +29,6 @@ It's this kind of shit that I was hoping to avoid by installing Windows in the f
 
 I then spent the next 10 minutes uninstalling things like two different "Candy Crush" games and something called "Cooking Fever". 
 
-While I'm sure I'll get used to all this, my first impression is that other than using familiar software, it's not a huge improvement over Linux.
+While I'm sure I'll get used to all this, and I'm trying to keep an open mind, my first impression is that other than using familiar software, it's not a huge improvement over Linux.
 
+Follow along [on the wiki](https://rudimentarylathe.org/#Windows).
