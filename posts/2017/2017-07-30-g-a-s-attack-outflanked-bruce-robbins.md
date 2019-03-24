@@ -1,5 +1,5 @@
 date: 2017-05-07 08:05:36
-tags: Autocord,Film
+tags: Film, analog
 permalink: /2017/g-a-s-attack-outflanked-bruce-robbins
 ---
 

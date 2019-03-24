@@ -1,5 +1,5 @@
 date: 2017-05-11 06:05:00
-tags: Darkroom, Focomat, Leica
+tags: darkroom, leica
 permalink: /2017/first-time-printing-with-the-focomat-iic
 
 # First time printing with the Focomat IIc

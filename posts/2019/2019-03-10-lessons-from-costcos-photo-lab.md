@@ -4,6 +4,8 @@ Permalink: /2019/lessons-from-costcos-photo-lab
 
 # The Lesson from Costco's Photo Lab - Missy Mwac
 
+![](/_img/2019/2019-03-23-ron-baptized-1941.jpg)
+
 [Missy Mwac](http://missymwac.com/the-lesson-from-costcos-photo-lab/)
 
 > If you think photos are important now, wait until they are all you have left.

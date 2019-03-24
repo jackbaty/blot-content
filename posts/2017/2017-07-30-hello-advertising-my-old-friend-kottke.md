@@ -1,6 +1,5 @@
 date: 2017-05-08 05:05:26
-tags: Advertising,Kottke.org
-cpermalink: /2017/hello-advertising-my-old-friend-kottke
+permalink: /2017/hello-advertising-my-old-friend-kottke
 
 # hello advertising, my old friend - Kottke
 

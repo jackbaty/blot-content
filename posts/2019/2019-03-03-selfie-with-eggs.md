@@ -1,5 +1,5 @@
 Date: 2019-03-03 14:36
-Tags: photography, film, mamiya6
+Tags: photography, film, analog
 Micro: true
 Permalink: /2019/selfie-with-eggs-2013
 

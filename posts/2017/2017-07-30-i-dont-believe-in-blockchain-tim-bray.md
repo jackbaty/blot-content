@@ -1,5 +1,4 @@
 date: 2017-05-13 03:05:42
-tags: blockchain
 permalink: /2017/i-dont-believe-in-blockchain-tim-bray
 
 # I Don’t Believe in Blockchain - Tim Bray

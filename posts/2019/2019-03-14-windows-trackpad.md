@@ -5,6 +5,8 @@ Permalink: /2019/installing-windows-10-for-fun
 
 # Installing Windows 10, just for "fun"
 
+![](/_img/2019/2019-03-23-windows10.jpg)
+
 I thought it would be fun to install Windows 10 on my old ThinkPad Carbon X1. I was wrong.
 
 I had Manjaro i3 on the ThinkPad and was getting weary of having to look up everything I wanted to do. The nerdiness of it was fun, but I found it hard to actually use.

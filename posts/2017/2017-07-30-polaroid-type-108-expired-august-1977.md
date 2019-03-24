@@ -1,5 +1,5 @@
 date: 2017-05-12 03:05:38
-tags: filmphotography,Instagram,polaroid
+tags: film,Instagram,polaroid
 permalink: /2017/polaroid-type-108-expired-august-1977
 
 # Polaroid Type 108 - Expired August 1977
