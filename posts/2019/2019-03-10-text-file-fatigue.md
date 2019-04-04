@@ -3,7 +3,7 @@ Tags: plaintext
 
 # Text File Fatigue
 
-![](/_img/2019/2019-03-23-txt-512.png)
+{>} ![](/_img/2019/2019-03-23-txt-150.png)
 
 I originaly wrote the following in 2015 (on a blog I seem to have misplaced).
 
