@@ -1,5 +1,6 @@
 Date: 2019-03-10 08:33
 Tags: plaintext
+Icon: 🌀
 
 # Text File Fatigue
 

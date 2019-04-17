@@ -1,7 +1,7 @@
 Date: 2019-03-14 16:11
 Tags: windows
-Micro: true
 Permalink: /2019/installing-windows-10-for-fun
+Icon: 🌀
 
 # Installing Windows 10, just for "fun"
 

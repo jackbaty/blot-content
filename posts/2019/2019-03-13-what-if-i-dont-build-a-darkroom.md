@@ -1,6 +1,7 @@
 Date: 2019-03-13 18:55
 Tags: photography
 Permalink: /2019/what-if-i-dont-build-a-darkroom
+Icon: 🌀
 
 # What if I don't build a darkroom?
 

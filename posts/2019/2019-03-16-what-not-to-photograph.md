@@ -1,5 +1,6 @@
 Date: 2019-03-16 11:44
 Tags: photography
+Icon: 🌀
 
 # What not to photograph
 
