@@ -10,3 +10,4 @@ Permalink: /2019/why-tag-film-photographs
 
 
 This is exactly how I feel. I hear things like "It doesn't matter what was used. The only thing that matters is the photograph". Yeah yeah, whatever you say, Mr. Serious Artist. I *like* knowing what film/camera/lens combination was used to create a photo. It's inspirational and encouraging. I tag mine because I like it when others tag theirs.
+
