@@ -11,6 +11,6 @@ Mmmmmm, nice.
 
 Blog posts fall squarely at the "Records" end of the [Thoughts vs Records](https://copingmechanism.com/2020/thoughts-vs-records/) spectrum, so posts in plain text are ideal. 
 
-[Blot](https://blot.im) has always struck a good balance between the simplicity of text and ease of use. I like using CMSs like WordPress and Ghost because the words are _right there_: type, save, done. Blot works much the same way, but with plain text.
+[Blot](https://blot.im) has always struck a good balance between the simplicity of text and ease of use. I like using CMSs like WordPress and Ghost because the words are _right there_: type, save, done. Blot works much the same way, but with only plain text, on my local machine.
 
 I wish I could say that I wasn't thinking of reviving this blog for something, but I'd be lying.
