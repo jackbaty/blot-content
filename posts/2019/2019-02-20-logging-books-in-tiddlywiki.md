@@ -16,15 +16,15 @@ I started by recreating my original list [in a single tiddler](https://rudimenta
 
 What I ended up doing was to create a "template" tiddler for books. The template looks like this...
 
-![](https://www.baty.blog/_img/2019/2019-02-20-book-template.png)
+![Book template](/_img/2019/2019-02-20-book-template.png)
 
 I then created a button for easily adding a new Book tiddler. The "Add a book" button is rendered using the following macro...
 
-![](https://www.baty.blog/_img/2019/2019-02-20-add-book-macro.png)
+![Add book macro](/_img/2019/2019-02-20-add-book-macro.png)
 
 It looks like this in the wiki...
 
-![](https://www.baty.blog/_img/2019/2019-02-20-book-button.png)
+![Book button](/_img/2019/2019-02-20-book-button.png)
 
 New Book tiddlers created with the Add a Book button are automatically tagged with "Book" and include fields for startdate, enddate, and goodreads. Those fields are used by the template so that each book tiddler is rendered showing dates and a link to Goodreads.
 
@@ -36,7 +36,7 @@ To include the template in a tiddler, I add the following...
 
 This transcludes the custom view template like this...
 
-![](https://www.baty.blog/_img/2019/2019-02-20-book-example.png)
+![Example](/_img/2019/2019-02-20-book-example.png)
 
 Including that templates ensures that all book tiddlers contain at least the "Notes" section at the end. And they're formatted consistently. 
 
