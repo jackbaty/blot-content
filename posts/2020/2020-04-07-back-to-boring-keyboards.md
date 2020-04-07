@@ -1,6 +1,5 @@
 Date: 2020-04-07 19:59
 Tags: Hardware
-Draft: true
 Icon: 🌀
 
 # Back to boring keyboards
