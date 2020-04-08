@@ -17,6 +17,3 @@ I can't tell you how nice it is to have actual arrow keys.
 I expect to buy the new Magic Keyboard for the iPad once it's available, so that's yet another keyboard with "normal" layout and feel. 
 
 I'm going to sacrifice perfection for consistency for a while. Oh, and the 16" MBP keyboard is great. So good that I've nearly forgotten about that butterfly abomination from earlier. Forgotten, but not forgiven :).
-
-
-
