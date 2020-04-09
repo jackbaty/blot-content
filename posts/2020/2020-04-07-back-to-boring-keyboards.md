@@ -10,7 +10,7 @@ I've been using a Happy Hacking Keyboard Professional (HHKB) [for almost exactly
 
 And yet, I'm now using a couple Apple Magic Keyboards instead. Why? Consistency.
 
-Working from home means that I move around the house and switch between the big iMac and the MBP. The differences between the HHKB and Magic Keyboard layouts aren't trivial, and switching between them requires significant adjustments to my muscle memory. It's too much.
+Working from home means that I often move around the house and switch between the big iMac and the MBP. The differences between the HHKB and Magic Keyboard layouts aren't trivial, and switching between them requires significant adjustments to my muscle memory. It's too much.
 
 I can't tell you how nice it is to have actual arrow keys.
 
