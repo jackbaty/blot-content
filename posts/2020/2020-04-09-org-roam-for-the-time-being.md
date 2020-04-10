@@ -4,7 +4,7 @@ Icon: 🌀
 
 # I'll be using Org-roam for the time being
 
-It's been a challenging week for me and [Roam](https://roamresearch.com). For
+It's been a challenging week for me using [Roam](https://roamresearch.com). For
 the past several days my Roam database simply wouldn't load. I'd see the
 spinning Astrolabe forever. Deleting the site data in my browser and restarting
 would help for a time, but then it would happen again.
