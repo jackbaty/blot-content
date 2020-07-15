@@ -3,7 +3,7 @@ Tags: Emacs
 Icon: 🌀
 Permalink: /2020/reigning-in-emacs
 
-# Reigning in Emacs
+# Reining in Emacs
 
 So far this year I've deleted Emacs from my Mac's dock at least 4 times.
 
