@@ -15,3 +15,7 @@ The macOS Big Sur beta has been stable overall, but hasn't been without issues f
 - I can't change my desktop background to the Big Sur default image (acknowledged in release notes)
 
 Some of these are known issues. Some could be just me. Other than Emacs not launching in a GUI, I don't regret installing the beta, yet.
+
+Added later:
+
+- My menubar items are all white, making them hard to read in light mode. Had to switch to dark mode, which I dislike.

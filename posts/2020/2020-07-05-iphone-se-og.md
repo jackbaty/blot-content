@@ -17,3 +17,5 @@ The thing about using a minimally-configured SE is that it feels liberating righ
 It would be unnecessarily limiting for me to swap the sim card from the iPhone X into the SE. On the other hand, it feels so good in hand and using it would be fun, right?
 
 I’m going to try it.
+
+**July 19, 2020 Update:** I used the SE for about 10 days and loved it. However, I tired of running into times where I didn't have some app I _needed_ like a parking app or the Orbi app so I went back to the iPhone X. That lasted two days. I hated how big it felt and FaceID is useless with a mask on and, really, the small one-handed operation enabled by the SE made me go back. Now what? I'm stuck with a phone with no future? Guess so.
