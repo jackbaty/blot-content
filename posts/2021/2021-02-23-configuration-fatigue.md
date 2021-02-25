@@ -23,3 +23,4 @@ Sometimes I think of all this configuration as just having fun tinkering with co
 
 You'll note that I'm posting this to my [Blot.im](https://blot.im) blog. Why? Because it's easier and there's really nothing to configure and right now that is a welcome change. And I still haven't fixed Hugo.
 
+Maybe it's actually "Decision Fatigue".
