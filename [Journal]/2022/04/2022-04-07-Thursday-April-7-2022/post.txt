@@ -1,0 +1,22 @@
+Date: 2022-04-07
+Permalink: /2022/2022-04-07/
+Icon: 🗓️
+
+# Thursday, April  7, 2022
+
+☁️ Overcast +44°F
+
+I deleted PhotoPrism from the Synology. It was chewing up all my (4GB) of RAM and generally causing things to misbehave. I suppose Synology Photos will have to do for now.
+
+I still don’t know the difference between my “Daybook” and “Journal”. I know what I _think_ the difference is, but I get lost in the grey area in the middle. I suppose the Daybook is for things I want to show up in the Agenda on that day. Things for which the date is important.
+
+![My dad is back from Florida](__20220407_063522Dad.jpg)
+
+I made some prints this morning. I am trying to make at least one or two 5x7" prints from each roll (in addition to a contact sheet). I’m not fussy about it. I guess at exposure time and print. I only re-print if my guess was horribly wrong. Otherwise, they’re good enough. Anything “special” gets the real treatment by printing an 8x10" print on fiber paper.
+
+![](__20220407_10590620220407-Q1000426.jpg)
+
+
+I added [Plausible](https://plausible.io/) analytics to [jack.micro.blog](https://jack.micro.blog), [baty.net](http://localhost:8000), and [daily.baty.net](https://daily.baty.net). I’m already generating reports using GoAccess for my self-hosted sites, but it’s hard to parse what’s a real “visit” through all that noise. Plausible is great, cheap, and doesn’t track anything other than hits, so it’s pretty privacy-safe.
+
+Upgraded Emacs to 28.1. [Here’s a nice summary of changes](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1).

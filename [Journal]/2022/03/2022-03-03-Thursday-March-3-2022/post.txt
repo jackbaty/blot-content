@@ -1,0 +1,40 @@
+Date: 2022-03-03
+Permalink: /2022/2022-03-03/
+Icon: 🗓️
+
+# Thursday, March 3, 2022
+
+☀️ Clear +20°F
+
+The fact that I often cannot tell the difference between someone being smart and someone trying to sound smart gives you an idea of how smart I am.
+
+I’m now running both [Alfred](https://alfredapp.com) and [Raycast](https://www.raycast.com) at the same time. I’m using Raycast for launching, clipboards, etc. and keeping Alfred running for a couple of workflows and “Universal Actions”. Why not? Although I may decide to reverse their roles at some point.
+
+**Monday**: Ima use TiddlyWiki for everything!  
+**Tuesday**: Logseq! I need to put everything into Logseq!  
+**Wednesday**: What was I thinking? Emacs is life!  
+**Thursday**: ???
+
+One nice feature of using Hugo for this site is that I haven’t felt a need to futz with it in a while. I just write, save, and type “make deploy”.
+
+I love having a big screen, but hate managing windows. I can’t help but be distracted by background windows so I either fart around moving things to spaces or I hide them. As a test, I’m trying Hazeover ([HazeOver: Distraction Dimmer™ for Productivity on Mac](https://hazeover.com/)) to see if just auto-dimming the unfocused windows will help. Otherwise, I unplug the laptop and use the smaller screen and it’s often a relief.
+
+I find myself withdrawing at a time when I should be participating.
+
+Painting with John is a dumb, silly little miracle of a show and it’s still my favorite thing.
+
+I love this blog and [wiki.baty.net](https://wiki.baty.net) equally.
+
+Looking at my baty.net stats. Is this what they mean by “trending”?
+
+![](_20220303-trending.png)
+
+[](https://daily.baty.net/img/2022/20220303-trending.png)
+
+You can’t make fun of me if I’m not trying.
+
+Fountain pens > Pencils. But not by as much as I thought.
+
+I think we should all go back to Tumblr and Flickr. Who’s with me!?
+
+I see they’ve [kicked DHH off the Railsconf keynote this year.](https://world.hey.com/dhh/no-railsconf-faa7935e) Part of me thinks they should have, because he’s being not just being normally dickish, he’s been loudly and repeatedly wrong about so many things recently. On the other hand, let him talk about Rails. Good grief, he still basically _is_ Rails. I think he’s wrong, not dangerous, sheesh. There’s a difference.

@@ -1,0 +1,27 @@
+Date: 2022-04-01
+Permalink: /2022/2022-04-01/
+Icon: 🗓️
+
+# Friday, April  1, 2022
+
+☁️ Overcast +32°F
+
+I just happened to already be in Emacs so I thought I’d write here for a spell. It’s no joke 😉. Which reminds me that today is the best day to stay off the internet.
+
+![](_org-roam.png)
+
+I’ve been publishing a few of the notes from my Org-roam database over at [notes.baty.net](https://notes.baty.net) just in case they might be useful to someone somewhere. I also like to browse them as decent-looking (read-only) HTML files instead of from within Emacs all the time. I’m using a version of the same “CodeIt” theme I used to use for baty.net. Ideally I’d list the categories on the home page rather than a list of recent posts, but Hugo’s templating system is completely unfathomable to me so I’m leaving it alone for now. Another thing I’m doing “wrong” is putting the theme’s git repo right in the themes folder. No submodules, no hugo modules. I’m just editing in place. Hell, I might just stop keeping it as a separate repo :).
+
+After I don’t even know how many years, I’ve canceled my Dropbox account
+
+I thought I’d lost my entire archive of posts from the [original baty.net](https://archive.baty.net) but accidentally ran into it [on Github](https://github.com/jackbaty/archive.baty.net) yesterday. Whew!
+
+![](_leica.png)
+
+Don’t tell anyone, but I’m thinking about selling the M10-R again. That would put me at a 4-month period of buying and selling two of them. I just can’t get over feeling guilty about having so much money tied up in a camera that I’m hardly using. It worries me that something could go wrong with it or it would get broken or stolen and I’d be out all that money. I don’t like feeling this way. Still noodling on it.
+
+> You’re you, and your pictures are yours, and what you bring to a photograph is not separate from it.
+> 
+> [Your Camera Roll Contains a Masterpiece | The New Yorker](https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece)
+
+[Maccy - macOS clipboard manager](https://maccy.app/)

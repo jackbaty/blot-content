@@ -6,4 +6,4 @@ permalink: /2019/unused-leicas
 
 These haven't been out since I moved last year. I'm not a responsible camera owner.
 
-![Leicas](https://www.baty.blog/_img/2019/2019-04-13_Leicas in case.JPG)
+![Leicas](/_img/2019/2019-04-13_Leicas in case.JPG)

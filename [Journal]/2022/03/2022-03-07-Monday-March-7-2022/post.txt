@@ -1,0 +1,24 @@
+Date: 2022-03-07
+Permalink: /2022/2022-03-07/
+Icon: 🗓️
+
+# Monday, March 7, 2022
+
+☁️ Overcast +35°F
+
+Writing in Emacs is great. Static websites are great. Using Emacs to manage and deal with content for a static website exhausts me eventually. Doesn’t bode well for this site, although it’s probably just my mood today.
+
+I follow [Matt Osbourne](https://flickr.com/photos/32681588@N03/) (aka Mr. Leica) on Flickr because he plays with just about every combination of lens and camera you could think of. Also, the lovely models don’t hurt. Thing is, with all the fuss about camera/lens combinations, all the images look basically the same. The biggest difference is film vs digital but otherwise I’d be hard-pressed to tell one from the other.
+
+You can see below that I’m experimenting with subheadings within daily posts. This is for things that are more than one paragraph of text or text and images. There’s a way to copy a link to the heading, but it only makes sense on an individual day’s page. Not sure if I’ll find it useful, but let’s try it.
+
+> You’re not suffering from ‘vicarious trauma’, you’re tweeting in your living room
+> 
+> Dazed [https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178](https://www.dazeddigital.com/politics/article/55563/1/stop-making-the-ukraine-war-about-you?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-178)
+
+Silver gelatin fiber prints
+---------------------------
+
+I’m not sure darkroom printing on fiber paper is worth the trouble. I love the way fiber prints look and feel, but they take twice as long to develop and an hour to wash, then this happens when they dry.
+
+![](_20220307-CurledPrint.jpeg)

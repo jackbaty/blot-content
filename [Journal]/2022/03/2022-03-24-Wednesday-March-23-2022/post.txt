@@ -1,0 +1,27 @@
+Date: 2022-03-24
+Permalink: /2022/2022-03-23/
+Icon: 🗓️
+
+# Wednesday, March 23, 2022
+
+My tendency to write daily posts here vs the wiki is tied to how deep I am into Emacs at the moment. Right now… that’s _very deep_.
+
+I’ve spent hours configuring my [Org-roam](https://www.orgroam.com) setup so I can publish certain notes as a website. It’s so cool, but in the end I’m not sure it offers clear advantages over the wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: notes.baty.net. **Later**: now I’ve realized that I can simply add some [ox-hugo](https://ox-hugo.scripter.co) metadata to any of my Org files and have them publish to this daily notes blog. Like so…
+
+    #+hugo_base_dir: ~/sites/daily.baty.net/
+    #+hugo_section: ./notes/
+    
+
+Now what!?
+
+![Me, at least once a month](_20220323-blog-meme.jpg)
+
+Apparently I have too much time on my hands.
+
+I went into the darkroom to test a new safelight bulb and made a handful of 5x7 prints while I was in there. I love real photos. The decision to print a photo automatically makes that photo special.
+
+![](_20220323-20220323-R0002099.jpg)
+
+Ordered a book: [No One Is Talking about This - a book by Patricia Lockwood](https://bookshop.org/books/no-one-is-talking-about-this/9780593189580)
+
+“Computational Photography” can fuck right off.

@@ -1,0 +1,7 @@
+Date: 2022-05-31
+Permalink: /2022/hello-summer
+Icon: 📷
+
+# Hello, summer...
+
+![Hot dogs over firepit](_hotdogs.jpg)
