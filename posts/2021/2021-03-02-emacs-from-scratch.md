@@ -7,7 +7,7 @@ Permalink: /2021/emacs-from-scratch-again
 
 Occasionally, maybe two or three times a year, I become determined to move away from Emacs. I swear that I'm sick of [Configuration Fatigue](/2021/configuration-fatigue) and I'm done for good this time!
 
-It never sticks. I don't enjoy editing anything without proper Vim bindings and I'm not interested in going back to Vim. I don't enjoy writing in VS Code. I also love Org Mode so much it hurts. So, Emacs with [Evil Mode](https://www.baty.blog/2021/configuration-fatigue) it is!
+It never sticks. I don't enjoy editing anything without proper Vim bindings and I'm not interested in going back to Vim. I don't enjoy writing in VS Code. I also love Org Mode so much it hurts. So, Emacs with [Evil Mode](/2021/configuration-fatigue) it is!
 
 When I want a complete, wildly complex, kitchen-sink-included Emacs setup that's managed for me, I rely on [Doom Emacs](https://github.com/hlissner/doom-emacs). Sometimes, though, I feel like I'm fighting with Doom as much as relying on it. It's always being updated, which is great, but it means that things are always changing. I feel like I don't understand it and that I'm not in control. Isn't Emacs all about being in control?
 

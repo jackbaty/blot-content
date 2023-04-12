@@ -6,4 +6,4 @@ I'm enjoying the
 [nord-theme](https://github.com/arcticicestudio/nord-emacs) for
 Emacs. It's subtle and doesn't try to do too much.
 
-![](https://www.baty.blog/_img/2019/2019-02-28-nord-theme.png)
+![](/_img/2019/2019-02-28-nord-theme.png)

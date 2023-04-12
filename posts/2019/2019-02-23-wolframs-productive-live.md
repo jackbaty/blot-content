@@ -12,8 +12,8 @@ Wolfram goes into great detail about his process and systems. He takes things _w
 
 He has this in his basement:
 
-![](https://www.baty.blog/_img/2019/2019-02-23-wolfram-basement.png)
+![](/_img/2019/2019-02-23-wolfram-basement.png)
 
 And also this. Don't you love it?
 
-![](https://www.baty.blog/_img/2019/2019-02-23-wolfram-files.png)
+![](/_img/2019/2019-02-23-wolfram-files.png)

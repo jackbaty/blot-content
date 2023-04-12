@@ -3,7 +3,7 @@ Tags: analog, film
 
 # Introducing MAYA: the incredible modern digital darkroom timer
 
-![](https://www.baty.blog/_img/2019/2019-02-16-maya-timer.png)
+![](/_img/2019/2019-02-16-maya-timer.png)
 
 > [MAYA](https://igg.me/at/darkroomtimer) is a brand new, modular, from scratch digital darkroom timer that can be used (right now) for both making prints and timing film/paper development.
 

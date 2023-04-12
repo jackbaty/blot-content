@@ -6,7 +6,7 @@ Icon: 🌀
 
 I track meals in my Tinderbox daybook, and record a "Quality" score for each meal; Low, Medium, or High. I like each entry to display an icon ($Badge) based on the quality value.
 
-![](https://www.baty.blog/_img/2019/2019-04-10-meal-log.png)
+![](/_img/2019/2019-04-10-meal-log.png)
 
 To do this, I have an Agent (named "Set Quality Badge") which collects meal entries with no assigned $Badge value and assigns one. Here's agent query...
 

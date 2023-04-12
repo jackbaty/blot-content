@@ -4,7 +4,7 @@ Icon: 🔗
 
 # Correction (fluid)
 
-I [commented yesterday](https://www.baty.blog/2019/a-coworker-just-came-into-my-office-and-asked-if-i-had-any-wite-out-and-when-i-told-him-i-did-not-he) about being made fun of for not having any Wite-Out (a brand of correction fluid) because ha-ha you're old and the only person left using paper.
+I [commented yesterday](/2019/a-coworker-just-came-into-my-office-and-asked-if-i-had-any-wite-out-and-when-i-told-him-i-did-not-he) about being made fun of for not having any Wite-Out (a brand of correction fluid) because ha-ha you're old and the only person left using paper.
 
 I assumed that the market for things like correction fluid must be nearly non-existent.
 

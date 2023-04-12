@@ -14,7 +14,7 @@ Blot is the easiest thing I've found for publishing a static site using Markdown
 I'm going to dip my toes back into Blot using my existing Blot site at [baty.blog][baty 2] and see how it goes.
 
 [baty]: https://micro.baty.net/
-[baty 2]: https://www.baty.blog
+[baty 2]: 
 [blot]: https://blot.im
 [gohugo]: https://gohugo.io
 [micro]: https://micro.blog

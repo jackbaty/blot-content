@@ -4,7 +4,7 @@ Icon: 🎵
 
 # Seeing the music
 
-![Turntable](https://www.baty.blog/_img/2019/2019-05-05_Turntable.jpg)
+![Turntable](/_img/2019/2019-05-05_Turntable.jpg)
 
 One of my favorite things about listening to vinyl records is that I
 can see the music as it plays. Ok I suppose I can’t exactly “see” it,

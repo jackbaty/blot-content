@@ -7,7 +7,7 @@ Permalink: /2019/i-love-my-online-stuff
 
 For the first time in forever, I'm content with the online versions of "my stuff".
 
-[My blog](https://www.baty.blog) (you're soaking in it) looks weird and is kind of hard to read but I intend to keep it mostly the same for a while. For some reason, the funky layout suits a messy combination of photos, "micro" posts, and normal posts. One day it'll annoy me and I'll change it all again, but for now it's good. And [Blot.im](https://blot.im) remains the best combination of easy, fast, and flexible tool for blogging that I've found. It's so good.
+[My blog]() (you're soaking in it) looks weird and is kind of hard to read but I intend to keep it mostly the same for a while. For some reason, the funky layout suits a messy combination of photos, "micro" posts, and normal posts. One day it'll annoy me and I'll change it all again, but for now it's good. And [Blot.im](https://blot.im) remains the best combination of easy, fast, and flexible tool for blogging that I've found. It's so good.
 
 [Micro.blog](https://micro.blog) is still a friendly, open, and interesting community and my favorite place to hang out.
 

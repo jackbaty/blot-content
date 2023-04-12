@@ -8,5 +8,5 @@ I've disabled cross-posting from baty.blog to Micro.blog/Twitter/Mastodon. I lik
 
 This feeling started with [my wiki](https://rudimentarylathe.org). I just write stuff there without worrying about where it's going to "go". 
 
-For those few who truly want to read everything, there's [RSS](https://www.baty.blog/feed.rss)
+For those few who truly want to read everything, there's [RSS](/feed.rss)
 

@@ -4,7 +4,7 @@ Icon: 🌀
 
 # Stuck with Lightroom Classic
 
-{>}![](https://www.baty.blog/_img/2019/2019-03-09-lightroom.jpg)
+{>}![](/_img/2019/2019-03-09-lightroom.jpg)
 
 After much wringing of hands and a near disaster, I am back to using Lightroom Classic as the core of my workflow. The goal is to have a stable local set of files, but also benefit from cloud sync and editing.
 

@@ -6,7 +6,7 @@ Icon: 🌀
 
 Whenever I need a reminder of what types of photographs I'd like avoid making, I pay a visit to the [popular page on 500px](https://500px.com/popular). 
 
-![](https://www.baty.blog/_img/2019/2019-03-16-500px.png)
+![](/_img/2019/2019-03-16-500px.png)
 
 To sum up...
 

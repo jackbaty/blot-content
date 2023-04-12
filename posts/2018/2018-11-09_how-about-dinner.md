@@ -8,5 +8,5 @@ My ex-wife passed away recently. We'd been divorced for many years and haven't k
 
 While going through her mom's things, my daughter found the sign that started our whole relationship. I was working construction in her neighborhood at the time. She would drive by a few times a day and we'd make eye contact. Eventually, I gathered all the courage I could muster, wrote "HOW ABOUT DINNER" on the back of a blueprint, and held it up as she drove by. She stopped, and the rest is history.
 
-![Sign drawn on blueprint. (June 23, 1987)](https://www.baty.blog/_img/2018/2018-11-09_how-about-dinner.png)
+![Sign drawn on blueprint. (June 23, 1987)](/_img/2018/2018-11-09_how-about-dinner.png)
 

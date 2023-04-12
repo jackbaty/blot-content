@@ -4,4 +4,4 @@ Micro: true
 
 That PM45 viewfinder is butt-ugly but it's the only way I can focus the thing. Otherwise, it's a beautiful machine.
 
-![](https://www.baty.blog/_img/2019/2019-02-13-hasselblad.jpg)
+![](/_img/2019/2019-02-13-hasselblad.jpg)

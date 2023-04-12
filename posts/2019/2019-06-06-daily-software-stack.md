@@ -7,7 +7,7 @@ Permalink: /2019/daily-software-stack-june-06
 
 Because things change, I've jotted down the list of apps I use to manage my "stuff" daily as of today.  Below each is a quick list of the types of things for which it's used. At some point I'd like to go into more detail, but by the time I do that everything changes again. 
 
-The list is longer than I would like, but I can't seem to narrow it down further. The highlight here is that I'm unable to get rid of Emacs, so it remains an important part of my process. I fear that it always will, and that I'll [have to get good at it, eventually](https://www.baty.blog/2019/i-should-just-get-really-good-at-emacs).
+The list is longer than I would like, but I can't seem to narrow it down further. The highlight here is that I'm unable to get rid of Emacs, so it remains an important part of my process. I fear that it always will, and that I'll [have to get good at it, eventually](/2019/i-should-just-get-really-good-at-emacs).
 
 ## Emacs
 
