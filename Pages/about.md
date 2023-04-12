@@ -7,19 +7,17 @@ Draft: false
 <img src="/_img/jack-headshot-250.jpg" alt="Your host, Jack Baty" />
 </div>
 
-I have been a web developer, project manager, and partner at Fusionary Media from 1995 until we sold the company in 2020. I’m currently on a temporary sabbatical. If there’s anything you think I could do for you, let me know. I've been at this a long time. I'm good at process definition,  requirements, user experience, documentation, and product/project management. I like to work with dev teams on whatever fascinates them.
+Web developer, project/product manager, and founding partner at Fusionary Media (1995-2020). I’m now looking for my next thing. I’m good at process, requirements, user experience, documentation, and product/project management. If there’s anything you think I could do for you, [hire me](/hire-me). I’ve been at this for a long time. I like to work with dev teams on whatever fascinates them.
 
-My favorite hobbies are photography and tinkering on the web.
+I love photography and tinkering on the web.
 
-💌 Reach out via **email**: [jack@baty.net](mailto:jack@baty.net)
+* * *
 
-I maintain a **wiki** at [wiki.baty.net](https://wiki.baty.net)
+To connect with me, see [Hello](https://baty.net/hello)
 
-Photos are on [Flickr](https://flickr.com/photos/jbaty) and [Glass](https://glass.photo/jbaty)
-
-**Do not expect consistency**.
+Here's what I’m doing [Now](https://baty.net/now)
 
 <br clear="all">
 
-This site is created with [Blot](https://blot.im). I edit posts in Emacs, mostly.
+This site is managed using [Blot](https://blot.im). I edit posts with Emacs, mostly.
 
