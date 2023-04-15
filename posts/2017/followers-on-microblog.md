@@ -1,5 +1,5 @@
 Date: 2017-08-07 3:06 PM
-Tags: microblog, social
+Tags: Blogging, Social
 
 # Followers on Micro.blog - Ron Chester
 

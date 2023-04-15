@@ -1,5 +1,5 @@
 date: 2017-05-31 01:05:21
-tags: blogging, fargo
+tags: Blogging
 permalink: /2017/scripting-news-may-31-2017
 
 # Scripting News: May 31, 2017

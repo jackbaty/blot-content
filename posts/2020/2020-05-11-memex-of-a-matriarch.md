@@ -1,5 +1,5 @@
 Date: 2020-05-11 17:31
-Tags: Roam, Memex
+Tags: Software
 Icon: 🔗
 
 # Memex of a Matriarch - Violeta Kristof

@@ -1,6 +1,6 @@
 
 Date: 2019-01-24 07:14
-Tags: blogging, tumblr
+Tags: blogging
 Permalink: /2019/mgsiegler-mentions-microblog
 
 # M.G. Siegler micro.blog mention

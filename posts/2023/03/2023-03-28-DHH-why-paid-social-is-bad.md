@@ -1,6 +1,6 @@
 ---
 Date: 2023-03-28 08:43
-Tags: 
+Tags: Social
 Icon: ❝
 ---
 

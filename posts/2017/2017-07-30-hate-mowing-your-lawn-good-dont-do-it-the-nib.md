@@ -1,5 +1,5 @@
 date: 2017-05-26 10:05:01
-tags: capitalism, environment
+tags: Environment
 permalink: /2017/hate-mowing-your-lawn-good-dont-do-it-the-nib
 
 # Hate Mowing Your Lawn? Good! Don’t Do It - The Nib

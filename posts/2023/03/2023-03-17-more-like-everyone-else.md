@@ -1,6 +1,5 @@
 ---
 Date: 2023-03-17 07:48
-Tags: 
 ---
 
 # More like everyone else

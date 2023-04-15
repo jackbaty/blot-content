@@ -1,5 +1,5 @@
 Date: 2019-01-23 10:08
-Tags: tiddlywiki, federation, indieweb, hypertext
+Tags: Tiddlywiki
 Permalink: /2019/intertwingling-the-tiddlywiki
 
 # Intertwingling the TiddlyWiki

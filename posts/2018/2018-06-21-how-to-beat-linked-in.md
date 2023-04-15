@@ -1,5 +1,5 @@
 Date: 2018-07-21 16:22
-Tags: fun, linkedin, social
+Tags: fun, Social
 
 [How to Beat LinkedIn: The Game](https://theoutline.com/post/5495/how-to-beat-linked-in-the-game):
 

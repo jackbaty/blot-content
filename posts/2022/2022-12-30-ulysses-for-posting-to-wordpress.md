@@ -1,6 +1,6 @@
 ---
 Date: 2022-12-30 05:49
-Tags: Software, Ulysses, WordPress, Blogging
+Tags: Software, WordPress, Blogging
 Icon: 🌀
 ---
 

@@ -1,5 +1,5 @@
 Date: 2019-05-13 15:56
-Tags: podcast
+Tags: Media
 Icon: 🔗
 
 # Friends of the Pod (N+1)

@@ -1,5 +1,5 @@
 Date: 2020-04-20 15:39
-Tags: TiddlyWiki, Glitch
+Tags: TiddlyWiki
 Icon: 🔗
 
 # TiddlyBlink on Glitch

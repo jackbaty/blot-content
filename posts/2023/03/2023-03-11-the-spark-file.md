@@ -5,7 +5,7 @@ Tags: Workflow, Emacs
 
 # The Spark File
 
-Ten years ago, Steven Johnson wrote [The Spark File](http://localhost/%5Bhttps://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58%5D(https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58)), in which he describes his process for keeping track of hunches, ideas, etc. in a single text file.
+Ten years ago, Steven Johnson wrote [The Spark File](https://medium.com/p/8d6e7df7ae58), in which he describes his process for keeping track of hunches, ideas, etc. in a single text file.
 
 I, of course, thought this was a great idea and immediately started keeping my own spark file. It began in 2012 and I was reasonably consistent with it until 2016. After that, there was a lull, but it picked up again for a short time in 2021, after which I sort of forgot about it.
 

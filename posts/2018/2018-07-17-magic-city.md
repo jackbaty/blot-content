@@ -1,5 +1,5 @@
 Date: 2018-07-17 21:22
-Tags: history, photography
+Tags: Photography
 
 # "The Magic City. A Portfolio of Original Photographic Views of the Great World's Fair". 1894
 

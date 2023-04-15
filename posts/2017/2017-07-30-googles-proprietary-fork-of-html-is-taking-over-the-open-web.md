@@ -1,5 +1,5 @@
 date: 2017-05-31 05:05:33
-tags: OpenWeb, Web
+tags: Web
 permalink: /2017/googles-proprietary-fork-of-html-is-taking-over-the-open-web
 
 # Google’s Proprietary Fork of HTML Is Taking Over the Open Web

@@ -1,5 +1,5 @@
 Date: 2019-04-13 09:08
-Tags: technology
+Tags: tech
 Icon: 🔗
 
 # Self-driving cars will be considered unthinkable 50 years from now

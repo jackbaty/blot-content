@@ -1,4 +1,4 @@
-Tags: ulysses, blot, blogging
+Tags: Blot, blogging
 
 # Posting to Blot using Ulysses
 

@@ -4,11 +4,9 @@ author: Jack
 date: 2020-10-24T17:40:58+00:00
 url: /2020/using-the-skier-sunray-copy-box-3-for-digital-film-scanning/
 featuredImage: /wp-content/uploads/2020/10/2020-10-24-Skier-Sunray-scanning-box02-scaled-1.jpg
-categories:
-  - Misc
 tags:
+  - Photography
   - Film
-  - Scanning
   - Workflow
 icon: 🌀
 ---

@@ -1,5 +1,5 @@
 Date: 2019-05-11 10:22
-Tags: usability, ageism
+Tags: usability
 Icon: 🔗
 
 # Don Norman on how design fails older consumers

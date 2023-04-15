@@ -1,5 +1,5 @@
 Date: 2020-02-17
-Tags: Doom-emacs, Emacs
+Tags: Emacs
 Icon: 🌀
 Permalink: /2020/doom-vs-custom-emacs-config/
 

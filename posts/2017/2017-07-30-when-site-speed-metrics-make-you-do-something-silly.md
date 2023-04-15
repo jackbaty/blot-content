@@ -1,5 +1,5 @@
 date: 2017-05-27 12:05:00
-tags: blogging, performance
+tags: Blogging, Web
 permalink: /2017/when-site-speed-metrics-make-you-do-something-silly
 
 # When site speed metrics make you do something silly

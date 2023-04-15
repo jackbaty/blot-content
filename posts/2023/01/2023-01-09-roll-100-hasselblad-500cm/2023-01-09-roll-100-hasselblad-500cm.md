@@ -1,6 +1,6 @@
 ---
 Date: 2023-01-09 07:35
-Tags: Photography, Film, Hasselblad, MediumFormat
+Tags: Photography, Film, Hasselblad
 ---
 
 # Roll-100 (Hasselblad 500C/M)

@@ -1,5 +1,4 @@
 Date: 2019-06-04 15:10
-Tags: journalism
 Icon: 🔗
 Permalink: /2019/on-deadline
 

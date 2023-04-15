@@ -1,5 +1,5 @@
 Date: 2018-07-28 08:22
-Tags: fusionary
+Tags: Fun
 
 # What, are we in college now?
 

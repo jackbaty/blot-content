@@ -1,5 +1,4 @@
 Date: 2018-11-19 17:47
-Tags: good
 Permalink: /2018/traffic-on-the-high-road
 
 # There’s Seldom Any Traffic on the High Road - Farnam Street

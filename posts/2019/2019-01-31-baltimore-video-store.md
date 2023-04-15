@@ -1,5 +1,5 @@
 Date: 2019-01-31 17:33
-Tags: movies
+Tags: Media
 Permalink: /2019/baltimore-video-store
 
 # In Baltimore, the future of film culture is an old-school video store
