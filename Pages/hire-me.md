@@ -3,7 +3,7 @@ Date: 2023-04-08 10:06
 Link: /hire-me/
 ---
 
-# Hire Me
+# ✨ Hire Me
 
 {>}![](/_img/jack-headshot-250.jpg)
 
