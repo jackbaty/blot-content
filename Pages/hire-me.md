@@ -5,15 +5,15 @@ Link: /hire-me/
 
 # ✨ Hire Me
 
-{>}![](/_img/jack-headshot-250.jpg)
+{>} ![Jack Baty](/_img/_2023-jack-headshot.jpg)
 
 After co-owning and managing a **[successful digital studio](https://fusionary.com/) for 25 years**, I sold the company in 2020, after which I remained in a consulting role for another year. I’ve been on a well-earned sabbatical since May 2021.
 
 **It’s time to get back to work.**
 
-I am most comfortable in a digital project or engineering management role. I have extensive technical experience, so I enjoy working with engineering teams and helping them build things and solve problems. I’m good at managing digital products and have led many large and small technical projects to successful completion.
+I am most comfortable in a digital project or engineering management role. I have extensive technical experience, so I enjoy working with engineering teams and helping them build things and solve problems. I’m good at managing digital products, understanding customer needs, and have led many large and small digital projects to successful completion.
 
-I love helping customers determine goals and requirements, and then working with development teams to make those things happen. I’m a fanatic about usability. I take a pragmatic approach to development, using the most useful components of agile methods.
+I love helping customers with goals and requirements, and then working with development teams to make those things happen. I’m a fanatic about usability. I take a pragmatic approach to development, using the most useful components of agile methods.
 
 I’ve worked with companies like **Steelcase**, **GM**, **Major League Baseball**, **HealthcareSource**, and dozens more. All of them would recommend me as part of the team working on their projects.
 
