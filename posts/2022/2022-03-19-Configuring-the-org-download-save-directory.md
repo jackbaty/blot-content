@@ -5,6 +5,10 @@ Icon: 🌀
 
 # Configuring the org-download save directory
 
+🔔 **NOTE**: Since this was written, I'm no longer customizing Org's attachment or download handling. I tired of changing my mind and breaking links. Everything now goes into ugly, gross UUID folders as is the default.
+
+---
+
 When I drag and drop an image into Emacs, I want the attached file to end up in `./img/YYYY/`. This is how I tried configuring [org-download](https://github.com/abo-abo/org-download) in my setup (I use Doom Emacs):
 
 ```lisp
