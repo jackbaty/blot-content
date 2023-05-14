@@ -2,7 +2,7 @@
 Date: 2022-11-30 10:05
 Tags: Emacs, Software
 Icon: 🌀
-Link: keeping-my-org-agenda-updated
+Link: /2022/keeping-my-org-agenda-updated
 ---
 
 # Keeping my Org Agenda updated based on Denote keywords
